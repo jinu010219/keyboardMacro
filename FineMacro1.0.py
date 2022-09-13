@@ -11,7 +11,7 @@ import pygetwindow as gw
 
 
 root = Tk()
-root.title("Fine Macro for 곽지성")
+root.title("Fine Macro for just everyone")
 root.geometry("540x320+280+180")
 root.resizable(False,False)
 
